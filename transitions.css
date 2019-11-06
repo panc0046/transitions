@@ -66,6 +66,11 @@ main {
   transform-style: preserve-3d;
 }
 
+/* 3rd effect */
+.card:hover .avatar img{
+  transform: rotateY(180deg);
+}
+
 .contact {
   font-size: 0.6rem;
   padding: 0.5rem 1rem;
