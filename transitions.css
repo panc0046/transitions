@@ -55,7 +55,7 @@ main {
 /* 2nd effect */
 .card:hover .name{
   color: rgb(68, 41, 23);
-  letter-spacing: 1.2em;
+  letter-spacing: 1em;
 }
 
 .avatar {
